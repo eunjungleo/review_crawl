@@ -1,2 +1,4 @@
 myvenv/
 chromedriver.exe
+
+*.log
