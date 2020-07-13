@@ -138,6 +138,6 @@ dmypy.json
 
 myvenv/
 
-*.exe
+chromedriver.exe
 
 # End of https://www.toptal.com/developers/gitignore/api/python
